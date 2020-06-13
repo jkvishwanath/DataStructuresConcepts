@@ -1,0 +1,21 @@
+
+
+
+https://www.reddit.com/r/django/comments/6a1k9e/how_to_implement_nested_routing/
+
+https://simplecheatsheet.com/tag/django-cheat-sheet/
+
+https://github.com/alanjds/drf-nested-routers/issues/17
+
+https://github.com/alanjds/drf-nested-routers/issues/7
+
+https://github.com/simpleenergy/django-rest-framework-nested-resource/issues/5
+
+sample using drf nested routing django
+
+https://medium.com/@EnterGodMode__/simple-nested-api-using-django-rest-framework-d2dd9f0ff093
+
+
+https://apptension.com/blog/2017/09/13/rest-api-using-django-rest-framework/
+
+
