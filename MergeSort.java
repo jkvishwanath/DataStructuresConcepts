@@ -82,6 +82,8 @@ public class MergeSort {
 	// Driver method 
 	public static void main(String args[]) 
 	{ 
+
+
 		int arr[] = { 23,34,56,11,77,12, 11, 13, 5, 6, 7 }; 
 
 		System.out.println("Intially Given Array"); 
@@ -91,7 +93,8 @@ public class MergeSort {
 		ob.sort(arr, 0, arr.length - 1); 
 
 		System.out.println("\n Final Sorted array"); 
+
 		printArray(arr); 
 	} 
 } 
-/* This code is contributed by Rajat Mishra */
+
